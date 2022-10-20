@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shriramrathod470/Weater_app_in_ReactJs.git/static/css/main.d838c2f5.css",
+    "main.js": "/shriramrathod470/Weater_app_in_ReactJs.git/static/js/main.f7563f2d.js",
+    "static/js/787.1ddf84a3.chunk.js": "/shriramrathod470/Weater_app_in_ReactJs.git/static/js/787.1ddf84a3.chunk.js",
+    "index.html": "/shriramrathod470/Weater_app_in_ReactJs.git/index.html",
+    "main.d838c2f5.css.map": "/shriramrathod470/Weater_app_in_ReactJs.git/static/css/main.d838c2f5.css.map",
+    "main.f7563f2d.js.map": "/shriramrathod470/Weater_app_in_ReactJs.git/static/js/main.f7563f2d.js.map",
+    "787.1ddf84a3.chunk.js.map": "/shriramrathod470/Weater_app_in_ReactJs.git/static/js/787.1ddf84a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d838c2f5.css",
+    "static/js/main.f7563f2d.js"
+  ]
+}
